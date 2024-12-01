@@ -1,0 +1,26 @@
+{
+  "name": "aoc-2024",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mittinatten/advent-of-code.git"
+  },
+  "author": "Simon Mitternacht",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mittinatten/advent-of-code/issues"
+  },
+  "homepage": "https://github.com/mittinatten/advent-of-code#readme",
+  "description": "",
+  "dependencies": {
+    "lodash-es": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.12"
+  }
+}

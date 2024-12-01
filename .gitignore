@@ -2,4 +2,4 @@ input.txt
 .idea
 .vscode
 .ionide
-
+node_modules
